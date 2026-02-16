@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+Pillow
+opencv-python
+streamlit-mermaid
+fpdf2
