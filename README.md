@@ -26,4 +26,4 @@ This application processes egocentric maintenance videos to automatically genera
 
 ## Deployment
 
-This app is ready for deployment on [Streamlit Community Cloud](https://streamlit.io/cloud).
+This app is temporarily deployed on [Streamlit Community Cloud](https://streamlit.io/cloud).
